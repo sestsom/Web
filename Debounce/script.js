@@ -1,3 +1,6 @@
+// Stefan Sommarsjö
+// https://github.com/sestsom/Web
+
 let debounceTimeout;
 
 function debounceFunction(func, delay) {
